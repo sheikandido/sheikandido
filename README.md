@@ -1,4 +1,3 @@
 ## brócolis 🥦
 
-Meu nome é isa 
-Procuro emprego
+Meu nome é dora
